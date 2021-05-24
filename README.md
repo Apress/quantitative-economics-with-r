@@ -1,6 +1,6 @@
 # Springer Source Code
 
-This repository accompanies [*Quantitative Economics with R*](https://link.springer.com/video/10.1007/%isbn%) by Vikram Dayal (Springer, %pubyear%).
+This repository accompanies [*Quantitative Economics with R*](https://link.springer.com/video/10.1007/%isbn%) by Vikram Dayal (Springer, 2021).
 
 [comment]: #cover
 ![Cover image](%isbn%.jpg)
